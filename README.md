@@ -41,9 +41,8 @@ Open the index.html file in your browser.
 
 🌐 Live Demo
 You can check out the live version here:
-🔗 Live Demo
+(https://sathwikprince.github.io/DSA-Sorting-visualizer/)
 
-📸 Screenshot
 
 ⚙️ Challenges Faced
 Smooth animation while keeping UI responsive
