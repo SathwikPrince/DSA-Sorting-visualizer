@@ -64,8 +64,7 @@ Add time and space complexity information dynamically
 📄 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by Sathwik Chinta
-🔗 GitHub Profile
+Made with ❤️ by Sathwik Chinta — [🔗 GitHub Profile](https://github.com/sathwikprince)
 
 
 
